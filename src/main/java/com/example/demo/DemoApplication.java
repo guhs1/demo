@@ -24,6 +24,10 @@ public class DemoApplication {
 
     public String getStatus1() {
         return "Application is running1";
+
+    }
+    public String getB() {
+        return "B";
     }
 
 
