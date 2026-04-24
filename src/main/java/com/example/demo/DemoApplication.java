@@ -30,8 +30,8 @@ public class DemoApplication {
         return "B";
     }
 
-    public String getA() {
-        return "A";
+    public String getF() {
+        return "F";
     }
 
     public String getD() {
