@@ -34,5 +34,8 @@ public class DemoApplication {
         return "A";
     }
 
+    public String getC() {
+        return "C";
+    }
 
 }
